@@ -4,6 +4,7 @@ import netifaces
 import socket
 
 def hostname_f():
+    """Obtain hostname of machine"""
     return socket.gethostname()
 
 def interface_f():
