@@ -1,0 +1,7 @@
+
+You will need:
+>Python3
+>apt-get install python3-pip
+
+
+Simple networking script to pull devices and ipv4 addresses on current machine.
